@@ -1,0 +1,51 @@
+
+DIABETES EXPLORATORY DATA ANALYTICS
+===================================
+
+Dataset
+-------
+Rows after cleaning       : 60
+Columns                   : 10
+
+Data Preprocessing
+------------------
+Missing values before     : 2
+Missing values after      : 0
+Duplicates before        : 1
+Duplicates after         : 0
+
+Patient Groups
+--------------
+Diabetic patients         : 49
+Non-diabetic patients     : 11
+
+Average Glucose
+---------------
+Diabetic                  : 134.17
+Non-diabetic              : 104.82
+
+Average BMI
+-----------
+Diabetic                  : 27.66
+Non-diabetic              : 27.29
+
+Statistical Analysis
+--------------------
+Glucose vs Diabetes r     : 0.356
+Glucose p-value           : 0.0053
+
+BMI vs Diabetes r         : 0.027
+BMI p-value               : 0.8363
+
+Glucose t-test p-value    : 0.0002
+
+Conclusion
+----------
+The exploratory analysis identifies patterns among glucose,
+BMI, age, blood pressure and diabetes outcomes.
+
+The project uses statistical analysis and visualization only.
+No machine learning model is used.
+
+This analysis is for academic data analytics demonstration
+and should not be treated as medical diagnosis.
